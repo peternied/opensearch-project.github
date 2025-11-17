@@ -12,11 +12,11 @@ This document contains a list of maintainers in this repo. See [opensearch-proje
 | ----------------- | ------------------------------------------------------- | ----------- |
 | Charlotte Henkle  | [CEHENKLE](https://github.com/CEHENKLE)                 | Amazon      |
 | Marc Handalian    | [mch2](https://github.com/mch2)                         | Amazon      |
-| Peter Nied        | [peternied](https://github.com/peternied)               | Amazon      |
 | Sarat Vemulapalli | [saratvemulapalli](https://github.com/saratvemulapalli) | Amazon      |
 
 ## Emeritus
 
 | Maintainer         | GitHub ID                           | Affiliation |
-| ------------------ | ----------------------------------- | ----------- |
-| Daniel Doubrovkine | [dblock](https://github.com/dblock) | Independent |
+| ------------------ | ------------------------------------------ | ----------- |
+| Daniel Doubrovkine | [dblock](https://github.com/dblock)        | Independent |
+| Peter Nied         | [peternied](https://github.com/peternied)  | Amazon      |
