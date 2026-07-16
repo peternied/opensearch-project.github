@@ -176,3 +176,17 @@ For contributors looking to add a new feature that would require the creation of
 ## Experimental Features
 
 Experimental releases are used to gather early feedback on features. Features should only be marked experimental if there is a high likelihood that API or experience will change. We strongly advise people to avoid using experimental features in production as there is no guarantee the API or experience won't change before release. It is best to avoid experimental feature releases unless it is necessary. Our goal is to have all experimental features into production or removed within 2 minor releases.  We generally use [Feature Flags](https://github.com/opensearch-project/OpenSearch/blob/main/DEVELOPER_GUIDE.md#experimental-development) to isolate experimental features in backend code.
+
+## AI Usage Policy
+
+### Goals
+
+The OpenSearch project welcomes AI as a productivity tool. Many contributors use AI assistance when researching, writing code, and finding bugs. We recognize its value when used thoughtfully. The goal of this policy is to maintain contribution quality and respect maintainer time.
+
+### Guidelines for AI Usage
+
+We maintain code, not the prompts used to generate the code. Maintainers must understand what the code is doing and how it works, and therefore contributors must have the same understanding of their contribution and be able to answer questions about it. If you relied substantially on an AI tool to generate the code you submit, then please disclose this fact and which tool you used. This is useful context for reviewers. All the same quality standards still apply to all contributions, e.g. excessively large contributions will be closed and asked to be broken down into smaller pieces.
+
+Pull requests that do not adhere to these guidelines will be closed and repeat violators may be banned from the project.
+
+This policy expands on the Linux Foundation’s overall [Generative AI Policy](https://www.linuxfoundation.org/legal/generative-ai).
